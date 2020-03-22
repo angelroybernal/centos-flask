@@ -1,3 +1,3 @@
-# python_dockerized_app
+# CentOS Dockerized Flask App
 
-Simple python app that runs in a Docker container. PoC for Python script deployment on Docker environment.
+Simple python app that runs in a Docker container. PoC for Python App deployment on Docker environment.
